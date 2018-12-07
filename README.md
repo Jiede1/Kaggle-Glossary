@@ -1,4 +1,9 @@
 # Kaggle-Glossary
-Summary of common algorithms for Kaggle
+常见主流数据科学领域的算法汇总（持续更新）  
 
-Relative Blog:
+参考博客:  
+
+
+开发者：  
+@Jiede1  
+@kyleken0909  
