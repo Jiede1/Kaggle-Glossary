@@ -46,7 +46,8 @@
 6.1 K Naive Bayes   
 6.2 SVMs  
 6.3 KNN  
-6.4 Recommendation Engine   
+6.4 Recommendation Engine  
+7. DataMing Science   
 7.1 Data Science Techniques - Preprocessing   
 a. EDA, Exploration   
 b. Feature Engineering   
@@ -114,10 +115,11 @@ d. Blending
 
 #### 开发计划：  
 
-name | 111 | 222 | 333 | 444  
-:-:  | :-: | :-: | :-: | :-:  
-aaa | bbb | ccc | ddd | eee|   
-fff | ggg| hhh | iii | 000|  
+name | chapter | content | others 
+:-:  | :-: | :-: | :-:   
+Great14 | 4 | [4] ResNet/CapsuleNetwork/VGG/InceptionNets | 0 
+chenzhuo | 4/8 | [4] 4.1/4.4/4.6/4.18;\n [8] 8.1/8.2 | 0 
+Jiede1 | 3 | 3.1~3.6 | 0 
 
 
 #### 开发者：  
