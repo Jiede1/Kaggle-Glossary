@@ -1,7 +1,7 @@
 # Kaggle-Glossary
-常见主流数据科学领域的算法汇总（持续更新）  
+### 常见主流数据科学领域的算法汇总（持续更新）  
   
-Contents  
+#### Contents  
 1. Regression Algorithms  
 1.1 Linear Regression  
 1.2 Logistic Regression  
@@ -109,9 +109,17 @@ d. Blending
 12.1. Best Tutorials on Kaggle   
 12.2. Data Leak    
 
-参考博客:  
+#### 参考博客:  
+***待定
+
+#### 开发计划：  
+
+name | 111 | 222 | 333 | 444  
+:-:  | :-: | :-: | :-: | :-:  
+aaa | bbb | ccc | ddd | eee|   
+fff | ggg| hhh | iii | 000|  
 
 
-开发者：  
+#### 开发者：  
 @[Jiede1](https://github.com/Jiede1)  
 @[kyleken0909](https://github.com/kyleken0909)
