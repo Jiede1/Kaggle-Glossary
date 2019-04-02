@@ -131,4 +131,6 @@ Jiede1 | 3 | 3.1~3.6 | 0
 
 #### 开发者：  
 @[Jiede1](https://github.com/Jiede1)  
-@[kyleken0909](https://github.com/kyleken0909)
+@[kyleken0909](https://github.com/kyleken0909)  
+@[Great14](https://github.com/Great1414)  
+@[chenzhuo]()  
