@@ -118,8 +118,15 @@ d. Blending
 name | chapter | content | others 
 :-:  | :-: | :-: | :-:   
 Great14 | 4 | [4] ResNet/CapsuleNetwork/VGG/InceptionNets | 0 
-chenzhuo | 4/8 | [4] 4.1/4.4/4.6/4.18;\n [8] 8.1/8.2 | 0 
+chenzhuo | 4/9 | [4] 4.1/4.4/4.6/4.18;[9] 9.1/9.2 | 0 
 Jiede1 | 3 | 3.1~3.6 | 0 
+
+**初期定为：每周交稿一次，个人提交代码+文档到各自分支，确认无误后提交合并merge请求，由Jiede1合并到master分支**  
+    
+**更新条件：**  
+**1.算法的原理解释文档**  
+**2.算法示例的数据文件**  
+**3.算法代码**  
 
 
 #### 开发者：  
